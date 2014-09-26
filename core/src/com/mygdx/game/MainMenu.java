@@ -142,4 +142,3 @@ public class MainMenu extends Menu {
         if (crossY > iconsRect.getY()+iconsRect.getHeight()) crossY = (iconsRect.getY()+iconsRect.getHeight());
     }*/
 }
-//changes
