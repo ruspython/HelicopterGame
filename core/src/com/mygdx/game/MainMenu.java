@@ -145,3 +145,4 @@ public class MainMenu extends Menu {
 //soon new changes
 //absolutely fucking stupid byaka changes
 //brand new changes
+//omg, this are also new changes
